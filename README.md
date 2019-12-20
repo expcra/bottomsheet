@@ -18,8 +18,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.flipboard:bottomsheet-core:1.5.3'
-    compile 'com.flipboard:bottomsheet-commons:1.5.3' // optional
+    implementation 'com.github.expcra:bottomsheet:1.5.4'
 }
 ```
 
